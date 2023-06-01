@@ -1,7 +1,7 @@
 module.exports = {
     projectId: "",// WYBIERZ SWÓJ PROJECT ID
     // projectId: "uYcTMn", // Setup
-    // projectId: 'NcZCLA', // Binarni Buntownicy
+    projectId: 'NcZCLA', // Binarni Buntownicy
     // projectId: 'ZdUnrC', // Eleganccy Enkoderzy
     // projectId: 'TShYsB', // Funkcyjni Fantastycy
     // projectId: '2n1qD1', // Harmonijni Hackersi
